@@ -1,1 +1,6 @@
-This is an auto-created file for data-science-projet
+
+Ingest, prepare, explore, train : Notebooks.
+
+Stockage : lakehouse.
+
+Report : Taux Attribution Bank
